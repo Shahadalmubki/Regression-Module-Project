@@ -1,1 +1,3 @@
 # Regression-Module
+We are an OYC company that serves customers to buy the cars used they want with the required features. We work to meet all customer requirements and provide them according to his specific budget and desired features.
+Our goal of this project is to reach a correct prediction through data pulled from an electronic car purchase website, which is to provide a car at an affordable price for each customer with the features ex: the walking of the car, the version...
